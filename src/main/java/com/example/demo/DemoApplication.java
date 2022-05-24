@@ -15,11 +15,11 @@ public class DemoApplication {
 
 }
 
-@RestController
-@RequestMapping("/hello")
-class HelloWorldController {
-    @GetMapping
-    public String showMessage() {
-        return "HelloWorld!!";
-    }
-}
+//@RestController
+//@RequestMapping("/hello")
+//class HelloWorldController {
+//    @GetMapping
+//    public String showMessage() {
+//        return "HelloWorld!!";
+//    }
+//}
